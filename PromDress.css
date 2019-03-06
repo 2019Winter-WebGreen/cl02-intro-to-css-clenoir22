@@ -1,0 +1,35 @@
+/*
+* courtney lenoir
+* 3/4/19
+* project name and description
+*/
+
+/* the universal selector */
+
+* {
+
+}
+/* body attributes here*/
+body {
+    width: 75%;
+    margin: auto;
+    background-color: darkseagreen;
+    font-family:sans-serif
+
+}
+
+h1 { background-color: darkblue;
+    color: floralwhite; 
+
+}
+
+p{ color: blueviolet
+
+}
+
+#redtext { color: red
+
+}
+
+.greentext { color: green
+}
